@@ -176,19 +176,9 @@
       }
     },
     "csv-parse": {
-      "version": "0.0.1",
-      "resolved": "https://registry.npmjs.org/csv-parse/-/csv-parse-0.0.1.tgz",
-      "integrity": "sha1-scN/5BHqgLS/XTRgSgNOCmEZ58A=",
-      "requires": {
-        "csv-generate": "^1.0.0"
-      },
-      "dependencies": {
-        "csv-generate": {
-          "version": "1.0.0",
-          "resolved": "https://registry.npmjs.org/csv-generate/-/csv-generate-1.0.0.tgz",
-          "integrity": "sha1-vVKIaFnQySXz5R9g86vtJi+hXK8="
-        }
-      }
+      "version": "4.4.6",
+      "resolved": "https://registry.npmjs.org/csv-parse/-/csv-parse-4.4.6.tgz",
+      "integrity": "sha512-VisC5TBBhOF+70zjrF9FOiqI2LZOhXK/vAWlOrqyqz3lLa+P8jzJ7L/sg90MHmkSY/brAXWwrmGSZR0tM5yi4g=="
     },
     "debug": {
       "version": "1.0.2",
